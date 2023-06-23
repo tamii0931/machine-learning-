@@ -18,3 +18,14 @@ SpaceX
 introduccion a machine learning
 
 Folium
+
+
+# dia 4
+
+spacex2-5 intereactive visual analytics con Folium
+
+spacex2-6 machine learning predicciones
+
+spacex4 EDA with Data Visualization
+
+Archivos: dataset_one-hot, dataset_part_2, spacex_launch_geo
