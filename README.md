@@ -29,3 +29,9 @@ spacex2-6 machine learning predicciones
 spacex4 EDA with Data Visualization
 
 Archivos: dataset_one-hot, dataset_part_2, spacex_launch_geo
+
+
+# dia 5
+
+Matplotlib y Seaborn
+SpaceX-2 EDA
